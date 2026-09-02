@@ -20,8 +20,8 @@ Este é o meu repositório especial para **brincar, quebrar e aprender**. Aqui �
 
 - ⚔️ **Praticando:** Lógica de programação, manipulação de DOM e estrutura web.
 - 🛠️ **Testando:** Comandos do **Git** e versionamento sem medo de dar `merge conflict`.
-- 🧪 **Projetos Experimentais:** Desafios de HTML5, CSS3, JavaScript e Java.
-- 🕹️ **Foco:** Evoluir 1% a cada dia rumo ao desenvolvimento Fullstack.
+- 🧪 **Projetos Experimentais:** Desafios de HTML5, CSS3 e JavaScript.
+- 🕹️ **Foco:** Evoluir 1% a cada dia rumo ao desenvolvimento Frontend/Fullstack.
 
 ---
 
@@ -31,7 +31,6 @@ Este é o meu repositório especial para **brincar, quebrar e aprender**. Aqui �
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -41,7 +40,7 @@ Este é o meu repositório especial para **brincar, quebrar e aprender**. Aqui �
 
 - [x] Concluir o Módulo 1 de HTML5 & CSS3 (Guanabara) 🚀
 - [ ] Dominar seletores, Box Model e layouts com CSS Grid/Flexbox
-- [ ] Dominar a sintaxe de Java e orientação a objetos
+- [ ] Dominar manipulação do DOM e lógica assíncrona com JavaScript
 - [ ] Manter o gráfico de contribuições do GitHub sempre verde 🟩
 
 ---
@@ -51,8 +50,8 @@ Este é o meu repositório especial para **brincar, quebrar e aprender**. Aqui �
 > *"Não importa o quão lento você vá, desde que não pare."*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lffbs&show_icons=true&theme=tokyonight&hide_border=true" alt="Lipe Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lffbs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lffbs&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Lipe Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lffbs&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" />
 </div>
 
 ---
