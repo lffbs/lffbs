@@ -50,8 +50,7 @@ Este é o meu repositório especial para **brincar, quebrar e aprender**. Aqui �
 > *"Não importa o quão lento você vá, desde que não pare."*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lffbs&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Lipe Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lffbs&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lffbs&theme=tokyonight&hide_border=true" alt="Lipe Streak Stats" />
 </div>
 
 ---
