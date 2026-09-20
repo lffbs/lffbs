@@ -49,5 +49,5 @@ Este é o meu repositório especial para **brincar, quebrar e aprender**. Aqui �
 ---
 
 <div align="center">
-  <small>Desenvolvido com foco e disciplina por <strong>Luiz Felipe</strong> 🚀</small>
+  <small>Desenvolvido por <strong>Luiz Felipe</strong> </small>
 </div>
