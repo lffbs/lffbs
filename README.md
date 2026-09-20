@@ -1,8 +1,5 @@
 # Bem-vindo
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h83/giphy.gif" width="600" alt="Anime Coding GIF">
-</div>
 
 <br>
 
